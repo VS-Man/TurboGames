@@ -1,0 +1,42 @@
+body {
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    background-color: rgb(144, 144, 218); /* Original color */
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+.GameII {
+    margin-left: 1000px;
+}
+.GameIV {
+    margin-left: 1000px;
+}
+.GameVI {
+    margin-left: 1000px;
+}
+.hdr {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.pgbuttons {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+/* Hover effect */
+button:hover {
+    background-color: rgb(113, 113, 230); /* Darker shade */
+}
